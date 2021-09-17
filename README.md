@@ -26,6 +26,8 @@ This is a simple mini-project where the user can guess a number between 1-20 and
 
 ![ss3](https://user-images.githubusercontent.com/86257435/133755158-b31f864a-3083-4798-b51c-cae0348657e8.PNG)
 
+![ss6](https://user-images.githubusercontent.com/86257435/133817157-7b3f323f-2141-4ec5-8c67-d144ec8da53d.PNG)
+
 ![ss4](https://user-images.githubusercontent.com/86257435/133755185-9e8d97a8-6edb-4e97-89cf-2b12d784862c.PNG)
 
 ![ss5](https://user-images.githubusercontent.com/86257435/133755201-fcfd2b29-e0ad-491e-9bfc-613f43e9ade7.PNG)
