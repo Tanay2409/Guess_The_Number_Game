@@ -1,4 +1,4 @@
-# Guess the number game
+# [Guess the number game](https://guess-the-number-tanay-nagar.netlify.app/)
 
 This is a simple mini-project where the user can guess a number between 1-20 and log his score based on the number of attempts. The user will also be able to log his highscore across all attempts.
 ## Features
