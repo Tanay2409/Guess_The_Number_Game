@@ -13,6 +13,8 @@ document.querySelector(".check").addEventListener("click", function () {
 
     //when player wins
   } else if (guess === secretNumber) {
+    document.querySelector("h1").textContent = "Congratulations!";
+    
     document.querySelector(".message").textContent = "🎉 Correct Number!";
 
     document.querySelector(".number").textContent = secretNumber;
