@@ -80,7 +80,7 @@ document.querySelector(".again").addEventListener("click", function () {
 
   document.querySelector("h1").textContent = "Guess The Number!";
   
-  document.querySelector(".message").textContent = "Start guessing...";
+  document.querySelector(".message").textContent = "🤔 Start guessing...";
 
   document.querySelector(".score").textContent = score;
 
